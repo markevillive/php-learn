@@ -7,9 +7,7 @@
     <body>
     <h1>Learn PHP.</h1>
     <h2>Пример встраивания Php в html</h2>
-    <?php
-    
-    ?>
+    <p>2 +3 = <?php echo 2+3; ?></p>
 
     </body>
 </html>
