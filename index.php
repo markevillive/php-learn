@@ -7,7 +7,9 @@
     <body>
     <h1>Learn PHP.</h1>
     <h2>Пример встраивания Php в html</h2>
+    <?php
     
+    ?>
 
     </body>
 </html>
