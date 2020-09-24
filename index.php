@@ -24,6 +24,8 @@
     echo "a = ".$a."<br>";
     echo "b = ".$b."<br>";
     ?>
+    <h2>Lesson 3 Типы данных в PHP</h2>
+
 
     </body>
 </html>
