@@ -24,6 +24,12 @@
     echo "a = ".$a."<br>";
     echo "b = ".$b."<br>";
     ?>
+    <h3>Дополнительно</h3>
+    <p>Вывод даты:</p>
+    <?php
+    echo "Текущая дата <br>";
+    echo date(DATE_RSS);
+    ?>
 
     </body>
 </html>
