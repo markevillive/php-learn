@@ -42,6 +42,28 @@
     <?php
     var_dump($a - $b);
     ?>
+    <p>Умножение</p>
+    <code>$a * $b;</code>
+    <?php
+    var_dump($a * $b);
+    ?>
+    <p>Деление</p>
+    <code>$a / $b;</code>
+    <?php
+    var_dump($a / $b);
+    ?>
+    <p>Остаток от деления</p>
+    <code>$a % $b;</code>
+    <?php
+    var_dump($a % $b);
+    ?>
+    <p>Возведение в степень</p>
+    <code>$a ** $b;</code>
+    <?php
+    var_dump($a ** $b);
+    ?>
+    <h3>Оператор присваивания</h3>
+    
 
     <h3>Домашнее задание</h3>
 
